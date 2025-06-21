@@ -1,0 +1,78 @@
+[
+  {
+    "type": "single",
+    "question": "Which language is used to style web pages?",
+    "options": ["HTML", "Python", "CSS", "C++"],
+    "answer": "CSS"
+  },
+  {
+    "type": "multiple",
+    "question": "Select the front-end technologies:",
+    "options": ["HTML", "CSS", "JavaScript", "MySQL"],
+    "answer": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "type": "fill",
+    "question": "The brain of the computer is the ____.",
+    "answer": "CPU"
+  },
+  {
+    "type": "single",
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "High Text Machine Language", "Hyper Text Markdown Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "type": "single",
+    "question": "Which tag is used to insert an image in HTML?",
+    "options": ["<img>", "<image>", "<src>", "<picture>"],
+    "answer": "<img>"
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are JavaScript frameworks/libraries?",
+    "options": ["React", "Angular", "Laravel", "Vue"],
+    "answer": ["React", "Angular", "Vue"]
+  },
+  {
+    "type": "single",
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-style", "text-size", "font-size", "text-style"],
+    "answer": "font-size"
+  },
+  {
+    "type": "fill",
+    "question": "The extension of JavaScript files is ____",
+    "answer": ".js"
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are programming languages?",
+    "options": ["HTML", "Python", "Java", "CSS"],
+    "answer": ["Python", "Java"]
+  },
+  {
+    "type": "single",
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": ["var", "int", "dim", "declare"],
+    "answer": "var"
+  },
+  {
+    "type": "fill",
+    "question": "To link an external CSS file, we use the ____ tag.",
+    "answer": "link"
+  },
+  {
+    "type": "multiple",
+    "question": "Select the output devices from the list:",
+    "options": ["Printer", "Monitor", "Keyboard", "Speaker"],
+    "answer": ["Printer", "Monitor", "Speaker"]
+  },
+  {
+    "type": "single",
+    "question": "Which one is NOT a valid loop in JavaScript?",
+    "options": ["for", "while", "foreach", "loop"],
+    "answer": "loop"
+  }
+]
+
